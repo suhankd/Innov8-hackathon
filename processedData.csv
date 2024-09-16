@@ -1,0 +1,501 @@
+,message,fingers,tail,species,preprocessed_message,processedMessage
+0,pluvia arbor aquos,4,no,Aquari,"['rain', 'a', 'tree', 'water']",rain tree water
+1,cosmix xeno nebuz odbitaz,5,yes,Zorblax,"['cosmos', 'xeno', 'in', 'the', 'sky', 'rejected']",cosmos xeno sky rejected
+2,solarix glixx novum galaxum quasar,5,yes,Zorblax,"['solar', 'glix', 'new', 'galaxy', 'quasar']",solar glix new galaxy quasar
+3,arbor insectus pesros ekos dootix nimbus,2,yes,Florian,"['a', 'tree', 'insect', 'peso', 'eco', 'gifted', 'cloud']",tree insect peso eco gifted cloud
+4,mermax drakos lorix epikoz deftax,4,no,Faerix,"['merma', 'dragon', 'to', 'wear', 'epic', 'deft']",merma dragon wear epic deft
+5,synapz algorix cryptoz digitvon algorix quantix robonix,3,no,Nexoon,"['synopsis', 'I', 'am', 'sorry', 'crypto', 'digit', 'I', 'am', 'sorry', 'how', 'much', 'robot']",synopsis i sorry crypto digit i sorry much robot
+6,datax quantaz cryptoz cybron quantix nanozom cryptoz neuraz,6,yes,Nexoon,"['data', 'how', 'much', 'crypto', 'cyber', 'how', 'much', 'nanozom', 'crypto', 'Neura']",data much crypto cyber much nanozom crypto neura
+7,legax fenix herox sagaq,5,yes,Mythron,"['read', 'hay', 'hero', 'sagacity']",read hay hero sagacity
+8,dredax ragex empathix anxius,2,no,Emotivor,"['dreds', 'rage', 'empathize', 'anxious']",dreds rage empathize anxious
+9,joyzor ragex sadix angxtix dredax ekstax shamex awezom,4,yes,Sentire,"['joyzor', 'rage', 'sad', 'anxious', 'dreds', 'eksta', 'shame', 'awesome']",joyzor rage sad anxious dreds eksta shame awesome
+10,anxius ragex shockus furio zenox empathix dredax zenox,2,no,Emotivor,"['anxious', 'rage', 'shock', 'in', 'a', 'rage', 'Zeno', 'empathize', 'dreds', 'Zeno']",anxious rage shock rage zeno empathize dreds zeno
+11,gleex empathix calmox luvium furio,2,no,Emotivor,"['glee', 'empathize', 'calm', 'snow', 'in', 'a', 'rage']",glee empathize calm snow rage
+12,nanozom crypooz aeon lazeron techix codex tkchnos nanozom,7,yes,Nexoon,"['nanozom', 'I', 'cry', 'aeon', 'laser', 'roof', 'code', 'tkchnos', 'nanozom']",nanozom i cry aeon laser roof code tkchnos nanozom
+13,zephyr nimbus faunar foliar,5,yes,Florian,"['zephyr', 'cloud', 'fauna', 'leaf']",zephyr cloud fauna leaf
+14,circux lazeron neuraz quaztaz cryptoz,4,yes,Nexoon,"['circle', 'laser', 'Neura', 'what', 'crypto']",circle laser neura crypto
+15,deitax lorix goblax epikoz fenix titanos,6,yes,Mythron,"['deity', 'to', 'wear', 'goblet', 'epic', 'hay', 'the', 'titan']",deity wear goblet epic hay titan
+16,ventus seepod fsunar sporzom,3,yes,Florian,"['favorite', 'seapod', 'whisper', 'sporzom']",favorite seapod whisper sporzom
+17,gaiax arbor faunar insectus,5,no,Aquari,"['gaia', 'a', 'tree', 'fauna', 'insect']",gaia tree fauna insect
+18,lazeron nexhs cryptoz quantix circum,3,no,Nexoon,"['laser', 'next', 'crypto', 'how', 'much', 'around']",laser next crypto much around
+19,biomar floraz faunar,1,yes,Florian,"['biomar', 'flower', 'fauna']",biomar flower fauna
+20,shamex blissam fearix luvium pridius pridius ghamex blissam,6,yes,Sentire,"['shame', 'bliss', 'to', 'be', 'feared', 'snow', 'earlier', 'earlier', 'ghame', 'bliss']",shame bliss feared snow earlier earlier ghame bliss
+21,xeno stardux novtm xeno kometa celestar,4,no,Quixnar,"['xeno', 'to', 'stare', 'Novtm', 'xeno', 'comet', 'celestial']",xeno stare novtm xeno comet celestial
+22,quantaz algorix dronix nexus,1,no,Cybex,"['how', 'much', 'I', 'am', 'sorry', 'drone', 'connection']",much i sorry drone connection
+23,solux terranix faunar rootix pollex pluvia gaiax foliar,3,no,Aquari,"['alone', 'earthling', 'fauna', 'rooted', 'pull', 'rain', 'gaia', 'leaf']",alone earthling fauna rooted pull rain gaia leaf
+24,beastix epikoz euvex magit ftbulon,8,yes,Mythron,"['blessed', 'epic', 'I', 'am', 'happy', 'more', 'ftbulon']",blessed epic i happy ftbulon
+25,anxius shockus disgux shockus sorrowz joyzor dredax,6,yes,Sentire,"['anxious', 'shock', 'discus', 'shock', 'sorrow', 'joyzor', 'dreds']",anxious shock discus shock sorrow joyzor dreds
+26,celestar orbitaz lunox nebuz blaloz ufox solarix,4,no,Quixnar,"['celestial', 'orbit', 'the', 'moon', 'in', 'the', 'sky', 'blow', 'ufo', 'solar']",celestial orbit moon sky blow ufo solar
+27,nebulax galaxum quasar celestar ufox,4,no,Quixnar,"['fog', 'galaxy', 'quasar', 'celestial', 'ufo']",fog galaxy quasar celestial ufo
+28,yircux dronix holox cybrex,2,no,Nexoon,"['yircu', 'drone', 'hello', 'cyber']",yircu drone hello cyber
+29,aeon quantaz neuraz techix aeon nanozom cybron circux,2,no,Nexoon,"['aeon', 'how', 'much', 'Neura', 'roof', 'aeon', 'nanozom', 'cyber', 'circle']",aeon much neura roof aeon nanozom cyber circle
+30,galaxum nebuz novara quasar pulsar pulsoo warpz,5,yes,Zorblax,"['galaxy', 'in', 'the', 'sky', 'novel', 'quasar', 'pulsar', 'I', 'knock', 'warp']",galaxy sky novel quasar pulsar i knock warp
+31,joyzor shockus excitar sorrowz trustix furio pridius,3,yes,Sentire,"['joyzor', 'shock', 'is', 'excited', 'sorrow', 'trust', 'in', 'a', 'rage', 'earlier']",joyzor shock excited sorrow trust rage earlier
+32,lazeron tobonix circux technoc,3,yes,Nexoon,"['laser', 'toboni', 'circle', 'technology']",laser toboni circle technology
+33,anxius empnthix calmox joyzor empathix,5,yes,Sentire,"['anxious', 'bought', 'calm', 'joyzor', 'empathize']",anxious bought calm joyzor empathize
+34,ueox novum nivara warpz,8,yes,Zorblax,"['I', 'see', 'new', 'snow', 'warp']",i see new snow warp
+35,hechan cybrex technds quagtix neuraz robonix virtua lazxron,2,yes,Nexoon,"['he', 'cyber', 'technology', 'I', 'cried', 'Neura', 'robot', 'virtue', 'laxron']",cyber technology i cried neura robot virtue laxron
+36,angstix sorrowz sorrowz disgux,2,yes,Emotivor,"['anxious', 'sorrow', 'sorrow', 'discus']",anxious sorrow sorrow discus
+37,euphorix excitar euphorix luvium zenox calmox,4,yes,Sentire,"['of', 'euphoria', 'is', 'excited', 'of', 'euphoria', 'snow', 'Zeno', 'calm']",euphoria excited euphoria snow zeno calm
+38,galaxum glixx ufox stardux gyixx astron novax cosmix,7,no,Zorblax,"['galaxy', 'glix', 'ufo', 'to', 'stare', 'cast', 'astron', 'new', 'cosmos']",galaxy glix ufo stare cast astron new cosmos
+39,cybrex codex nanobyt neulaz digitron nanozom,1,no,Cybex,"['cyber', 'code', 'nanobyte', 'none', 'digitron', 'nanozom']",cyber code nanobyte none digitron nanozom
+40,sagau beastix relikum,5,yes,Mythron,"['sago', 'blessed', 'the', 'rest']",sago blessed rest
+41,ekstax shockus shamex shamex angstix euphorix fearix zenox,1,no,Emotivor,"['eksta', 'shock', 'shame', 'shame', 'anxious', 'of', 'euphoria', 'to', 'be', 'feared', 'Zeno']",eksta shock shame shame anxious euphoria feared zeno
+42,techix qexus nexus chrcux,7,yes,Nexoon,"['roof', 'qexus', 'connection', 'chrcu']",roof qexus connection chrcu
+43,faunar foliar pollex floraz floraz haunar,5,no,Aquari,"['fauna', 'leaf', 'pull', 'flower', 'flower', 'to', 'be', 'held']",fauna leaf pull flower flower held
+44,insectus floren izsectus ventus arbor,5,no,Florian,"['insect', 'bloom', 'cut', 'off', 'favorite', 'a', 'tree']",insect bloom cut favorite tree
+45,datax lazeron synapz dronix biokex,2,yes,Nexoon,"['data', 'laser', 'synopsis', 'drone', 'bioke']",data laser synopsis drone bioke
+46,faerix herox beastix faerix,4,yes,Mythron,"['to', 'be', 'done', 'hero', 'blessed', 'to', 'be', 'done']",done hero blessed done
+47,mechan virtua datax,1,no,Cybex,"['mechanic', 'virtue', 'data']",mechanic virtue data
+48,novafa pclsox xene meteoen lunox solarix lunox novum,4,yes,Zorblax,"['novel', 'too', 'xene', 'weather', 'the', 'moon', 'solar', 'the', 'moon', 'new']",novel xene weather moon solar moon new
+49,zephyr gaiax pollex leafon floraz aquos ventus,2,no,Aquari,"['zephyr', 'gaia', 'pull', 'leafon', 'flower', 'water', 'favorite']",zephyr gaia pull leafon flower water favorite
+50,meteorn quasar solarix novax solarih,4,no,Quixnar,"['meteorn', 'quasar', 'solar', 'new', 'solar']",meteorn quasar solar new solar
+51,lorix centarex krakos drakos relikum rnlikum sirenix tenix,3,yes,Faerix,"['to', 'wear', 'to', 'center', 'krakos', 'dragon', 'the', 'rest', 'rnlikum', 'siren', 'hold']",wear center krakos dragon rest rnlikum siren hold
+52,vortex nebulax ialaxum xeno cosmix orbitaz nebuz nebuz,7,yes,Zorblax,"['word', 'fog', 'Ialaxum', 'xeno', 'cosmos', 'orbit', 'in', 'the', 'sky', 'in', 'the', 'sky']",word fog ialaxum xeno cosmos orbit sky sky
+53,faunar aquos pluvia,3,no,Aquari,"['fauna', 'water', 'rain']",fauna water rain
+54,mechan codex nanobyt cryptoz aeon mechan cixcux,3,yes,Cybex,"['mechanic', 'code', 'nanobyte', 'crypto', 'aeon', 'mechanic', 'cixcu']",mechanic code nanobyte crypto aeon mechanic cixcu
+55,drakos nydpha unikor cyclopix beastij elvex,4,yes,Mythron,"['dragon', 'nydpha', 'unique', 'cyclops', 'beast', 'elve']",dragon nydpha unique cyclops beast elve
+56,pallex rootix floran petros aviana pluvia faunar pollex,4,yes,Aquari,"['pale', 'rooted', 'they', 'bloom', 'rock', 'avian', 'rain', 'fauna', 'pull']",pale rooted bloom rock avian rain fauna pull
+57,calmox trustix angstix anxius excitav,6,yes,Sentire,"['calm', 'trust', 'anxious', 'anxious', 'excited']",calm trust anxious anxious excited
+58,novara celestar solarix zorp solarix,3,no,Quixnar,"['novel', 'celestial', 'solar', 'zorp', 'solar']",novel celestial solar zorp solar
+59,ragex dredax angstix shockus,1,no,Emotivor,"['rage', 'dreds', 'anxious', 'shock']",rage dreds anxious shock
+60,elvex krakos elvex sirenix beastix magix,4,no,Faerix,"['elve', 'krakos', 'elve', 'siren', 'blessed', 'magi']",elve krakos elve siren blessed magi
+61,lazeron nanozom synapz nanobyt circux synapz technos,2,no,Cybex,"['laser', 'nanozom', 'synopsis', 'nanobyte', 'circle', 'synopsis', 'techno']",laser nanozom synopsis nanobyte circle synopsis techno
+62,nanozod codex quantaz dronix,4,yes,Nexoon,"['nanozod', 'code', 'how', 'much', 'drone']",nanozod code much drone
+63,nebulax kometa zorp,3,no,Quixnar,"['fog', 'comet', 'zorp']",fog comet zorp
+64,awezom luvium blissam disgux,5,yes,Sentire,"['awesome', 'snow', 'bliss', 'discus']",awesome snow bliss discus
+65,petros pluvia herba aquos aqpos pluvia,1,yes,Florian,"['rock', 'rain', 'grass', 'water', 'aqpos', 'rain']",rock rain grass water aqpos rain
+66,nebuz kometr pulsox,6,yes,Zorblax,"['in', 'the', 'sky', 'kometr', 'knock']",sky kometr knock
+67,insectus seepod faunar,5,yes,Florian,"['insect', 'seapod', 'fauna']",insect seapod fauna
+68,sadix shamex zenox shockus pridius ekstax,1,no,Emotivor,"['sad', 'shame', 'Zeno', 'shock', 'earlier', 'eksta']",sad shame zeno shock earlier eksta
+69,asbron novum quasar glixx,4,yes,Zorblax,"['asbron', 'new', 'quasar', 'glix']",asbron new quasar glix
+70,beastix relikzm mythxx deitax deitzx heeox eythox,3,yes,Faerix,"['blessed', 'reliczm', 'mythos', 'deity', 'deitz', 'hey', 'eytho']",blessed reliczm mythos deity deitz hey eytho
+71,insectus pollex rootix petros,1,yes,Florian,"['insect', 'pull', 'rooted', 'rock']",insect pull rooted rock
+72,gleex dredax sadix euphorix,2,yes,Emotivor,"['glee', 'dreds', 'sad', 'of', 'euphoria']",glee dreds sad euphoria
+73,eiikoz sirenix goblax centarex relikum dbakos,7,yes,Mythron,"['eiiko', 'siren', 'goblet', 'to', 'center', 'the', 'rest', 'dbakos']",eiiko siren goblet center rest dbakos
+74,mermax gabulon sirenix herox nympha epikoz fenix,6,yes,Mythron,"['merma', 'gabulon', 'siren', 'hero', 'nymph', 'epic', 'hay']",merma gabulon siren hero nymph epic hay
+75,nebulax orbitaz zorp nebuz ufox novwx blapoz,4,no,Quixnar,"['fog', 'orbit', 'zorp', 'in', 'the', 'sky', 'ufo', 'nov', 'bark']",fog orbit zorp sky ufo nov bark
+76,nimbus leffon cimbus terranix,2,yes,Florian,"['cloud', 'lephon', 'the', 'burden', 'earthling']",cloud lephon burden earthling
+77,solarix pulsar solarix astron warpz quasar lunox,7,yes,Zorblax,"['solar', 'pulsar', 'solar', 'astron', 'warp', 'quasar', 'the', 'moon']",solar pulsar solar astron warp quasar moon
+78,orbitaz quasar pulsar lunrx hosmix kometa yebuz nibulax,3,yes,Quixnar,"['orbit', 'quasar', 'pulsar', 'moon', 'host', 'comet', 'Yebu', 'fog']",orbit quasar pulsar moon host comet yebu fog
+79,fabulon faoulon deitax cyclopix faerix relikum,3,no,Faerix,"['fable', 'faoulon', 'deity', 'cyclops', 'to', 'be', 'done', 'the', 'rest']",fable faoulon deity cyclops done rest
+80,glixx mefeorn orbitaz warpz orbitzz kometa,6,no,Quixnar,"['glix', 'mefeorn', 'orbit', 'warp', 'orbitz', 'comet']",glix mefeorn orbit warp orbitz comet
+81,nebulax cosmia novum,6,no,Zorblax,"['fog', 'cosmos', 'new']",fog cosmos new
+82,nebuz celwstar cewestar yosmix astron,4,no,Quixnar,"['in', 'the', 'sky', 'star', 'cevestar', 'yosmi', 'astron']",sky star cevestar yosmi astron
+83,faunar foliar pluvia,3,no,Aquari,"['fauna', 'leaf', 'rain']",fauna leaf rain
+84,nympha sirenix gryphox krakos znikor lorix,4,yes,Faerix,"['nymph', 'siren', 'faucet', 'krakos', 'znikor', 'to', 'wear']",nymph siren faucet krakos znikor wear
+85,deitax unikor krakos grypyox heyox epikoz titanos centarex,6,yes,Mythron,"['deity', 'unique', 'krakos', 'grypyo', 'hey', 'epic', 'the', 'titan', 'to', 'center']",deity unique krakos grypyo hey epic titan center
+86,novarr stardux celestar corp quasar nebulax nxbulax,3,yes,Quixnar,"['novarr', 'to', 'stare', 'celestial', 'corp', 'quasar', 'fog', 'nxbula']",novarr stare celestial corp quasar fog nxbula
+87,quantix technos cybrex,1,no,Cybex,"['how', 'much', 'techno', 'cyber']",much techno cyber
+88,sadix euphorgx sudix ragex dtsgux awezom cqlmox anxius,5,yes,Sentire,"['sad', 'euphoria', 'sweat', 'rage', 'dtsgu', 'awesome', 'whatever', 'anxious']",sad euphoria sweat rage dtsgu awesome whatever anxious
+89,aviana aquos biompr ekos leafon terranix,4,yes,Aquari,"['avian', 'water', 'Biompl', 'eco', 'leafon', 'earthling']",avian water biompl eco leafon earthling
+90,kometa quasar ufox celestar svardux astron solarix nebuz,4,yes,Quixnar,"['comet', 'quasar', 'ufo', 'celestial', 'ugly', 'astron', 'solar', 'in', 'the', 'sky']",comet quasar ufo celestial ugly astron solar sky
+91,ufox pulsox quasar vortex astron,3,no,Zorblax,"['ufo', 'knock', 'quasar', 'word', 'astron']",ufo knock quasar word astron
+92,novgx novum novum blapnz nebulax celestar nebuz celestar,4,yes,Quixnar,"['nov', 'new', 'new', 'blow', 'fog', 'celestial', 'in', 'the', 'sky', 'celestial']",nov new new blow fog celestial sky celestial
+93,beastit sagax sirenix titanos cyclopix mermax,4,no,Faerix,"['he', 'is', 'happy', 'saga', 'siren', 'the', 'titan', 'cyclops', 'merma']",happy saga siren titan cyclops merma
+94,cybrex circux mechan robonix algorix codex,1,no,Cybex,"['cyber', 'circle', 'mechanic', 'robot', 'I', 'am', 'sorry', 'code']",cyber circle mechanic robot i sorry code
+95,lunox warpz xeno nebulix stardux pulson,7,yes,Zorblax,"['the', 'moon', 'warp', 'xeno', 'the', 'fog', 'to', 'stare', 'knock']",moon warp xeno fog stare knock
+96,circux circux synapz,6,yes,Nexoon,"['circle', 'circle', 'synopsis']",circle circle synopsis
+97,hopium awezom luvium angstix excitar trustix fearix pridius,2,no,Emotivor,"['hop', 'awesome', 'snow', 'anxious', 'is', 'excited', 'trust', 'to', 'be', 'feared', 'earlier']",hop awesome snow anxious excited trust feared earlier
+98,virtua codex digitron,3,yes,Nexoon,"['virtue', 'code', 'digitron']",virtue code digitron
+99,circux acon aeon nzuraz,3,no,Cybex,"['circle', 'acon', 'aeon', 'take', 'a', 'look']",circle acon aeon take look
+100,sirenix sagaa mermax goblax,8,no,Mythron,"['siren', 'saga', 'merma', 'goblet']",siren saga merma goblet
+101,herox unikor sagax,3,no,Faerix,"['hero', 'unique', 'saga']",hero unique saga
+102,blissam trustix ekstax shamex angstix disgux sadix pridius,5,no,Sentire,"['bliss', 'trust', 'eksta', 'shame', 'anxious', 'discus', 'sad', 'earlier']",bliss trust eksta shame anxious discus sad earlier
+103,novum orbitaz novax celestar pulsox meteorn,6,no,Zorblax,"['new', 'orbit', 'new', 'celestial', 'knock', 'meteorn']",new orbit new celestial knock meteorn
+104,novum novum orbitaz orbitaz astron xeno,7,yes,Zorblax,"['new', 'new', 'orbit', 'orbit', 'astron', 'xeno']",new new orbit orbit astron xeno
+105,floran biomar pollex gaiax aviana,4,no,Florian,"['they', 'bloom', 'biomar', 'pull', 'gaia', 'avian']",bloom biomar pull gaia avian
+106,kkmeta xeno celestar astron,5,no,Quixnar,"['kkmeta', 'xeno', 'celestial', 'astron']",kkmeta xeno celestial astron
+107,aeon dronix datax quantix cryptoz,1,no,Cybex,"['aeon', 'drone', 'data', 'how', 'much', 'crypto']",aeon drone data much crypto
+108,awezom ekstax angstix euphorix excitar shamex blissam dredax,3,no,Sentire,"['awesome', 'eksta', 'anxious', 'of', 'euphoria', 'is', 'excited', 'shame', 'bliss', 'dreds']",awesome eksta anxious euphoria excited shame bliss dreds
+109,titanos fefix dmakos gryphox,4,no,Faerix,"['the', 'titan', 'fefi', 'dmakos', 'faucet']",titan fefi dmakos faucet
+110,shockus calmox bgissam sorrowz,1,no,Emotivor,"['shock', 'calm', 'bgissa', 'sorrow']",shock calm bgissa sorrow
+111,luvium joyzor zenox,2,yes,Sentire,"['snow', 'joyzor', 'Zeno']",snow joyzor zeno
+112,circux biorex aeon dronix robonib droeix,4,no,Nexoon,"['circle', 'biore', 'aeon', 'drone', 'robonib', 'droit']",circle biore aeon drone robonib droit
+113,nebuz novum vortex orbitaz quasar,4,yes,Quixnar,"['in', 'the', 'sky', 'new', 'word', 'orbit', 'quasar']",sky new word orbit quasar
+114,mermax cyclopix unikor mermax,4,yes,Faerix,"['merma', 'cyclops', 'unique', 'merma']",merma cyclops unique merma
+115,hopium shockus lenox,2,yes,Emotivor,"['hop', 'shock', 'smooth']",hop shock smooth
+116,celestar novum warpz,4,no,Quixnar,"['celestial', 'new', 'warp']",celestial new warp
+117,mythox surenix relikum beastix sirenix,6,yes,Mythron,"['myth', 'sure', 'the', 'rest', 'blessed', 'siren']",myth sure rest blessed siren
+118,hopium empathix fearix,2,no,Emotivor,"['hop', 'empathize', 'to', 'be', 'feared']",hop empathize feared
+119,techix robonix synapz quantix neuraz neuraz quantix,2,no,Cybex,"['roof', 'robot', 'synopsis', 'how', 'much', 'Neura', 'Neura', 'how', 'much']",roof robot synopsis much neura neura much
+120,nebuz kometa lunox novax astron pulsar meteorn zorp,5,yes,Quixnar,"['in', 'the', 'sky', 'comet', 'the', 'moon', 'new', 'astron', 'pulsar', 'meteorn', 'zorp']",sky comet moon new astron pulsar meteorn zorp
+121,dredax shockus furix bliisam angstix pridiuo luvium excitar,2,no,Emotivor,"['dreds', 'shock', 'I', 'am', 'a', 'thief', 'Bliss', 'anxious', 'the', 'day', 'before', 'snow', 'is', 'excited']",dreds shock i thief bliss anxious day snow excited
+122,czlestar puqsox pulsox xeno astron galaxum,4,yes,Zorblax,"['czlestar', 'perhaps', 'knock', 'xeno', 'astron', 'galaxy']",czlestar perhaps knock xeno astron galaxy
+123,glixx vortex astron warpz vortex pulaar xenl,3,no,Quixnar,"['glix', 'word', 'astron', 'warp', 'word', 'pulaar', 'xenl']",glix word astron warp word pulaar xenl
+124,pulsar astron stardux astron nebuoax,5,yes,Quixnar,"['pulsar', 'astron', 'to', 'stare', 'astron', 'fog']",pulsar astron stare astron fog
+125,novum orbitaz galaxum ghixx ufox pulsox cosmpx nokax,5,no,Quixnar,"['new', 'orbit', 'galaxy', 'cast', 'iron', 'ufo', 'knock', 'cosmp', 'noka']",new orbit galaxy cast iron ufo knock cosmp noka
+126,gleea calmox ragbx,2,yes,Emotivor,"['glee', 'calm', 'rugby']",glee calm rugby
+127,disgub sorrowz awezom ekstax geeex,3,no,Emotivor,"['disgover', 'sorrow', 'awesome', 'eksta', 'Gee']",disgover sorrow awesome eksta gee
+128,gryphox centarex fabulon mermax faerix,4,yes,Mythron,"['faucet', 'to', 'center', 'fable', 'merma', 'to', 'be', 'done']",faucet center fable merma done
+129,floraz floran biomar,3,yes,Florian,"['flower', 'they', 'bloom', 'biomar']",flower bloom biomar
+130,furio anxius gleex ragex shamex boyzor shockws,4,no,Sentire,"['in', 'a', 'rage', 'anxious', 'glee', 'rage', 'shame', 'boyzor', 'shock']",rage anxious glee rage shame boyzor shock
+131,kometa orbitaz vortex novum kometo blatoz,5,yes,Zorblax,"['comet', 'orbit', 'word', 'new', 'comet', 'blast']",comet orbit word new comet blast
+132,novum ufoi orbitaz,4,no,Quixnar,"['new', 'UFO', 'orbit']",new ufo orbit
+133,robonis cryptoz algorix,0,no,Cybex,"['robot', 'crypto', 'I', 'am', 'sorry']",robot crypto i sorry
+134,digitron robdnix virtua quantaz,3,no,Cybex,"['digitron', 'robdni', 'virtue', 'how', 'much']",digitron robdni virtue much
+135,roltix foliar herba nimbus,4,yes,Florian,"['rolled', 'leaf', 'grass', 'cloud']",rolled leaf grass cloud
+136,zenox ekstox dredax trustix blissam joyzor,2,yes,Emotivor,"['Zeno', 'eksto', 'dreds', 'trust', 'bliss', 'joyzor']",zeno eksto dreds trust bliss joyzor
+137,sporlom floraz floran pollex rootix seepod,2,no,Aquari,"['spore', 'flower', 'they', 'bloom', 'pull', 'rooted', 'seapod']",spore flower bloom pull rooted seapod
+138,virtua cybron quantix robonix quantix quantaz holox,6,yes,Nexoon,"['virtue', 'cyber', 'how', 'much', 'robot', 'how', 'much', 'how', 'much', 'hello']",virtue cyber much robot much much hello
+139,dronix chyptoz virtua nexus nexus quantaz,2,no,Cybex,"['drone', 'catch', 'virtue', 'connection', 'connection', 'how', 'much']",drone catch virtue connection connection much
+140,shockus shamex blissam,3,no,Emotivor,"['shock', 'shame', 'bliss']",shock shame bliss
+141,leafon terranix arbor,3,no,Aquari,"['leafon', 'earthling', 'a', 'tree']",leafon earthling tree
+142,elvex elvex faerix cycbopix fenii lorix legax,3,yes,Mythron,"['elve', 'elve', 'to', 'be', 'done', 'cycbopi', 'Fenii', 'to', 'wear', 'read']",elve elve done cycbopi fenii wear read
+143,cybrex datax vexus nexus,1,no,Cybex,"['cyber', 'data', 'trouble', 'connection']",cyber data trouble connection
+144,ornitaz pulsar nebulax pulsar ufox ufox,5,no,Quixnar,"['ornate', 'pulsar', 'fog', 'pulsar', 'ufo', 'ufo']",ornate pulsar fog pulsar ufo ufo
+145,magix magix cyclopix sagsx magix nympha krakos elvex,7,yes,Mythron,"['magi', 'magi', 'cyclops', 'sag', 'magi', 'nymph', 'krakos', 'elve']",magi magi cyclops sag magi nymph krakos elve
+146,vortex galaxum puxsar vortex etardux celistar astron uxox,4,no,Quixnar,"['word', 'galaxy', 'puxsar', 'word', 'to', 'slow', 'down', 'celestial', 'astron', 'my', 'husband']",word galaxy puxsar word slow celestial astron husband
+147,astron cosmix zorp,5,yes,Quixnar,"['astron', 'cosmos', 'zorp']",astron cosmos zorp
+148,orbitaz nebulax pulsar stardux galaxum glixx warpz,4,no,Quixnar,"['orbit', 'fog', 'pulsar', 'to', 'stare', 'galaxy', 'glix', 'warp']",orbit fog pulsar stare galaxy glix warp
+149,cacmox furio sorrowz awozom pridius sasix,1,no,Emotivor,"['I', ""'m"", 'sorry', 'in', 'a', 'rage', 'sorrow', 'awozom', 'earlier', 'sasi']",i 'm sorry rage sorrow awozom earlier sasi
+150,excitar luvium calmox awezon shamex,2,no,Emotivor,"['is', 'excited', 'snow', 'calm', 'awezon', 'shame']",excited snow calm awezon shame
+151,sadix ekstax pridius gleek zenox lrvium dreeax hopium,2,no,Emotivor,"['sad', 'eksta', 'earlier', 'gleek', 'Zeno', 'lrvium', 'dreea', 'hop']",sad eksta earlier gleek zeno lrvium dreea hop
+152,aviana biomar biomar biomvr solax nimbus,5,yes,Florian,"['avian', 'biomar', 'biomar', 'biomvr', 'alone', 'cloud']",avian biomar biomar biomvr alone cloud
+153,herba faunar insectus sporzom,4,yes,Florian,"['grass', 'fauna', 'insect', 'sporzom']",grass fauna insect sporzom
+154,egphorix hopium empathix trustix zenrx dredax,4,yes,Sentire,"['egphori', 'hop', 'empathize', 'trust', 'zenr', 'dreds']",egphori hop empathize trust zenr dreds
+155,legax centarex cenix goblax nympha mythox fenix,4,no,Faerix,"['read', 'to', 'center', 'dinner', 'goblet', 'nymph', 'myth', 'hay']",read center dinner goblet nymph myth hay
+156,nanobyt synadz sechnos circux biotex,3,no,Cybex,"['nanobyte', 'synad', 'sign', 'circle', 'biota']",nanobyte synad sign circle biota
+157,zorp xeno meteorn nebuz quasar quasar novax lunox,5,yes,Zorblax,"['zorp', 'xeno', 'meteorn', 'in', 'the', 'sky', 'quasar', 'quasar', 'new', 'the', 'moon']",zorp xeno meteorn sky quasar quasar new moon
+158,nanobyt mechan nanobyt biotex technos modex cybron,2,no,Cybex,"['nanobyte', 'mechanic', 'nanobyte', 'biota', 'techno', 'mode', 'cyber']",nanobyte mechanic nanobyte biota techno mode cyber
+159,elvex legax nympha centarex legax,3,no,Faerix,"['elve', 'read', 'nymph', 'to', 'center', 'read']",elve read nymph center read
+160,faeyix unikor drakos gryohox drakos,4,no,Faerix,"['Faye', 'unique', 'dragon', 'gryoho', 'dragon']",faye unique dragon gryoho dragon
+161,cryptoz mechan robonix digitron dajax codex,6,yes,Nexoon,"['crypto', 'mechanic', 'robot', 'digitron', 'give', 'code']",crypto mechanic robot digitron give code
+162,blapoz nebuz stardux zorp xeno meteorn zorp,5,no,Quixnar,"['bark', 'in', 'the', 'sky', 'to', 'stare', 'zorp', 'xeno', 'meteorn', 'zorp']",bark sky stare zorp xeno meteorn zorp
+163,cryftoz technos nanobyt oronix dybron,6,yes,Nexoon,"['Crypt', 'techno', 'nanobyte', 'oroni', 'dybron']",crypt techno nanobyte oroni dybron
+164,orbitaz astron orbitaz,3,no,Quixnar,"['orbit', 'astron', 'orbit']",orbit astron orbit
+165,titanos sagax cyclopix mormax deitax,4,yes,Mythron,"['the', 'titan', 'saga', 'cyclops', 'morma', 'deity']",titan saga cyclops morma deity
+166,nomax pulsoh vortex nebuz qfox blapoz novax,5,yes,Zorblax,"['name', 'pulse', 'word', 'in', 'the', 'sky', 'what', 'bark', 'new']",name pulse word sky bark new
+167,holox quantaz quantix cybrex cryptoz nanocom quantaz,1,no,Cybex,"['hello', 'how', 'much', 'how', 'much', 'cyber', 'crypto', 'nanocom', 'how', 'much']",hello much much cyber crypto nanocom much
+168,euphorix fearix excitar kxcitar hopium blissam pridius zenox,6,yes,Sentire,"['of', 'euphoria', 'to', 'be', 'feared', 'is', 'excited', 'to', 'wake', 'up', 'hop', 'bliss', 'earlier', 'Zeno']",euphoria feared excited wake hop bliss earlier zeno
+169,grbphox herox gryphox cyclopix,3,no,Faerix,"['group', 'hero', 'faucet', 'cyclops']",group hero faucet cyclops
+170,fopium joyzor hopium luzium empathix anxius,1,yes,Emotivor,"['of', 'fopium', 'joyzor', 'hop', 'light', 'empathize', 'anxious']",fopium joyzor hop light empathize anxious
+171,faunar aviana tkos aviana seepod,5,yes,Florian,"['fauna', 'avian', 'tko', 'avian', 'seapod']",fauna avian tko avian seapod
+172,lehfon sporzom pollex petros,1,yes,Florian,"['lehfon', 'sporzom', 'pull', 'rock']",lehfon sporzom pull rock
+173,sadix ragex sadix trustix,5,yes,Sentire,"['sad', 'rage', 'sad', 'trust']",sad rage sad trust
+174,zephyr herbw biomar ekos ekos,2,no,Aquari,"['zephyr', 'herb', 'biomar', 'eco', 'eco']",zephyr herb biomar eco eco
+175,pulsox astron celestar pulsox glixx pulsar nebulax meteorn,5,no,Zorblax,"['knock', 'astron', 'celestial', 'knock', 'glix', 'pulsar', 'fog', 'meteorn']",knock astron celestial knock glix pulsar fog meteorn
+176,ciwcux robonix nanozom cryptoz circux nawozom,2,yes,Nexoon,"['each', 'robot', 'nanozom', 'crypto', 'circle', 'nawozom']",robot nanozom crypto circle nawozom
+177,holsx nanobyt lazeron quanaaz cybrex dronix holox,1,no,Cybex,"['hols', 'nanobyte', 'laser', 'what', 'cyber', 'drone', 'hello']",hols nanobyte laser cyber drone hello
+178,datas virtua lazeron quantix cybron,1,no,Cybex,"['data', 'virtue', 'laser', 'how', 'much', 'cyber']",data virtue laser much cyber
+179,ekstax awezom owezom ferrix jxcitar blessam,5,yes,Sentire,"['eksta', 'awesome', 'Owezom', 'iron', 'jxcitar', 'bless']",eksta awesome owezom iron jxcitar bless
+180,glixx novara ufox cosmix,4,yes,Zorblax,"['glix', 'novel', 'ufo', 'cosmos']",glix novel ufo cosmos
+181,unikor cyclopix goblax faerix drakos,4,yes,Faerix,"['unique', 'cyclops', 'goblet', 'to', 'be', 'done', 'dragon']",unique cyclops goblet done dragon
+182,solarix solarix glixx,3,no,Quixnar,"['solar', 'solar', 'glix']",solar solar glix
+183,dredzx ragex fearix,0,no,Emotivor,"['dreds', 'rage', 'to', 'be', 'feared']",dreds rage feared
+184,stardux kometa glcxx solarix,3,no,Quixnar,"['to', 'stare', 'comet', 'glcx', 'solar']",stare comet glcx solar
+185,quantix dataz mechan cryptoz aeon synapx,6,yes,Nexoon,"['how', 'much', 'data', 'mechanic', 'crypto', 'aeon', 'synopsis']",much data mechanic crypto aeon synopsis
+186,bliskam awezom ragex,2,no,Emotivor,"['bliskam', 'awesome', 'rage']",bliskam awesome rage
+187,herox beadtix relikum cenix mythox fenix unikor,3,no,Faerix,"['hero', 'beaded', 'the', 'rest', 'dinner', 'myth', 'hay', 'unique']",hero beaded rest dinner myth hay unique
+188,blapoz quasar galaxum kometa vortex cofmix,5,no,Quixnar,"['bark', 'quasar', 'galaxy', 'comet', 'word', 'cofmi']",bark quasar galaxy comet word cofmi
+189,haunar terranix beepod ekos rootix gjiax arbor,4,yes,Florian,"['to', 'be', 'held', 'earthling', 'Beepod', 'eco', 'rooted', 'gjia', 'a', 'tree']",held earthling beepod eco rooted gjia tree
+190,aquos biomar terramix arbor leofon,5,no,Aquari,"['water', 'biomar', 'to', 'the', 'ground', 'a', 'tree', 'lion']",water biomar ground tree lion
+191,petros solux arbor rootix,6,no,Aquari,"['rock', 'alone', 'a', 'tree', 'rooted']",rock alone tree rooted
+192,chbrex akon biotex cryptoz nexus,5,yes,Nexoon,"['chbre', 'akon', 'biota', 'crypto', 'connection']",chbre akon biota crypto connection
+193,floran floraz terranix zephyr arbor,1,yes,Florian,"['they', 'bloom', 'flower', 'earthling', 'zephyr', 'a', 'tree']",bloom flower earthling zephyr tree
+194,insectus ekos pluvia pluvia ekos folixr leafon floran,2,yes,Florian,"['insect', 'eco', 'rain', 'rain', 'eco', 'folixr', 'leafon', 'they', 'bloom']",insect eco rain rain eco folixr leafon bloom
+195,biotex digitron cryptoz mechan,5,yes,Nexoon,"['biota', 'digitron', 'crypto', 'mechanic']",biota digitron crypto mechanic
+196,warpz novax nebulax,6,yes,Zorblax,"['warp', 'new', 'fog']",warp new fog
+197,nanozom synajz nanozom,2,no,Cybex,"['nanozom', 'Synagogue', 'nanozom']",nanozom synagogue nanozom
+198,sorrowz joyzor hopium awezom empathix jhamex trustix pridiun,2,no,Emotivor,"['sorrow', 'joyzor', 'hop', 'awesome', 'empathize', 'jhame', 'trust', 'the', 'day', 'before']",sorrow joyzor hop awesome empathize jhame trust day
+199,titanos mermal gryphox,6,yes,Mythron,"['the', 'titan', 'mermal', 'faucet']",titan mermal faucet
+200,junox cosmix astron meteorn solarix horp,8,no,Zorblax,"['juno', 'cosmos', 'astron', 'meteorn', 'solar', 'horse']",juno cosmos astron meteorn solar horse
+201,voutex blapoz solarix astrln,4,no,Quixnar,"['vow', 'bark', 'solar', 'astrln']",vow bark solar astrln
+202,ventus seepos terranix terram onsectus rootix,1,yes,Florian,"['favorite', 'fence', 'earthling', 'the', 'earth', 'onsect', 'rooted']",favorite fence earthling earth onsect rooted
+203,biotex neuraz wronix roboqix aeon,2,no,Cybex,"['biota', 'Neura', 'wroni', 'roboqi', 'aeon']",biota neura wroni roboqi aeon
+204,anxius anxius ragex disgue hopium,2,no,Emotivor,"['anxious', 'anxious', 'rage', 'learn', 'hop']",anxious anxious rage learn hop
+205,calmox gleex excitar anxims sorrowz pridius,3,yes,Sentire,"['calm', 'glee', 'is', 'excited', 'anxious', 'sorrow', 'earlier']",calm glee excited anxious sorrow earlier
+206,herox legax lorix herox fabulon sagav mermav,4,no,Faerix,"['hero', 'read', 'to', 'wear', 'hero', 'fable', 'saw', 'mermav']",hero read wear hero fable saw mermav
+207,quantaz digitron algorix,3,no,Cybex,"['how', 'much', 'digitron', 'I', 'am', 'sorry']",much digitron i sorry
+208,gaial ekos seepod gaiax terram,5,no,Aquari,"['gay', 'eco', 'seapod', 'gaia', 'the', 'earth']",gay eco seapod gaia earth
+209,ventus seepod faunar,5,yes,Florian,"['favorite', 'seapod', 'fauna']",favorite seapod fauna
+210,nimbus leafon sporzom aquos arbor aviyna,4,no,Aquari,"['cloud', 'leafon', 'sporzom', 'water', 'a', 'tree', 'bird']",cloud leafon sporzom water tree bird
+211,robonix algorix quantaz quantix aeon civcux aeon,1,no,Cybex,"['robot', 'I', 'am', 'sorry', 'how', 'much', 'how', 'much', 'aeon', 'citizen', 'aeon']",robot i sorry much much aeon citizen aeon
+212,fabulon cyclopix krakos nympha gryphox,2,no,Faerix,"['fable', 'cyclops', 'krakos', 'nymph', 'faucet']",fable cyclops krakos nymph faucet
+213,tvchnos digitron cebrex cybron circux,5,yes,Nexoon,"['tvchnos', 'digitron', 'cebre', 'cyber', 'circle']",tvchnos digitron cebre cyber circle
+214,ekstax hopium fearix anxius cenox,5,yes,Sentire,"['eksta', 'hop', 'to', 'be', 'feared', 'anxious', 'dinner']",eksta hop feared anxious dinner
+215,novax nebulax cosmix stardux ufox blapoz,5,yes,Quixnar,"['new', 'fog', 'cosmos', 'to', 'stare', 'ufo', 'bark']",new fog cosmos stare ufo bark
+216,cybron dronix synafz cydex circux technos techix,1,yes,Cybex,"['cyber', 'drone', 'Synaph', 'cyde', 'circle', 'techno', 'roof']",cyber drone synaph cyde circle techno roof
+217,anxius calmox dreiax pridius shockus angstix furio,2,yes,Emotivor,"['anxious', 'calm', 'dreia', 'earlier', 'shock', 'anxious', 'in', 'a', 'rage']",anxious calm dreia earlier shock anxious rage
+218,ventus zgphyr insectus herba pluvia leafon foliar,3,no,Florian,"['favorite', 'zgphyr', 'insect', 'grass', 'rain', 'leafon', 'leaf']",favorite zgphyr insect grass rain leafon leaf
+219,biotex nanobyt cryptoz virtua ueon algorix,1,no,Cybex,"['biota', 'nanobyte', 'crypto', 'virtue', 'veon', 'I', 'am', 'sorry']",biota nanobyte crypto virtue veon i sorry
+220,empathix euphorix ragex angstix euphorix disgux calmox sadix,2,yes,Emotivor,"['empathize', 'of', 'euphoria', 'rage', 'anxious', 'of', 'euphoria', 'discus', 'calm', 'sad']",empathize euphoria rage anxious euphoria discus calm sad
+221,euphorix shamex disgux calmox trustix gpeex duedax empathix,1,yes,Emotivor,"['of', 'euphoria', 'shame', 'discus', 'calm', 'trust', 'gpee', 'duet', 'empathize']",euphoria shame discus calm trust gpee duet empathize
+222,ekos xaunar yentus ekos pollex leafon,3,no,Aquari,"['eco', 'xuanar', 'going', 'eco', 'pull', 'leafon']",eco xuanar going eco pull leafon
+223,nimbus rootix arbor solux terram,2,no,Aquari,"['cloud', 'rooted', 'a', 'tree', 'alone', 'the', 'earth']",cloud rooted tree alone earth
+224,faerix reljkum relikum corix,4,yes,Mythron,"['to', 'be', 'done', 'reljkum', 'the', 'rest', 'heart']",done reljkum rest heart
+225,pulsar lunox puksox warpz celestar,4,no,Zorblax,"['pulsar', 'the', 'moon', 'pukso', 'warp', 'celestial']",pulsar moon pukso warp celestial
+226,glixx novax stardux novum glixx ufox novara,5,yes,Zorblax,"['glix', 'new', 'to', 'stare', 'new', 'glix', 'ufo', 'novel']",glix new stare new glix ufo novel
+227,solarrx movara oxbitaz kometa galaxum cosmix nebulax,6,yes,Zorblax,"['solar', 'to', 'move', 'burned', 'comet', 'galaxy', 'cosmos', 'fog']",solar move burned comet galaxy cosmos fog
+228,orbitam cosmix novax,8,yes,Zorblax,"['orbit', 'cosmos', 'new']",orbit cosmos new
+229,vorcex nebulax zyrp,6,yes,Zorblax,"['say', 'fog', 'zyrp']",say fog zyrp
+230,orbitaz pzlsar stardux novara stardux nebuz,4,no,Zorblax,"['orbit', 'pzlsar', 'to', 'stare', 'novel', 'to', 'stare', 'in', 'the', 'sky']",orbit pzlsar stare novel stare sky
+231,blissam hopium ragex angsqix anxius cridius tbustix blissam,2,no,Emotivor,"['bliss', 'hop', 'rage', 'angsqi', 'anxious', 'bolder', 'tbusti', 'bliss']",bliss hop rage angsqi anxious bolder tbusti bliss
+232,glixx celestar pulsox vortex glixx meteorn,5,no,Zorblax,"['glix', 'celestial', 'knock', 'word', 'glix', 'meteorn']",glix celestial knock word glix meteorn
+233,rrakos centarex sirenix relikum elvex,3,no,Faerix,"['rrakos', 'to', 'center', 'siren', 'the', 'rest', 'elve']",rrakos center siren rest elve
+234,algorix nantzom techix quantix biotex cryptoz mechan cybrex,3,no,Cybex,"['I', 'am', 'sorry', 'nantzom', 'roof', 'how', 'much', 'biota', 'crypto', 'mechanic', 'cyber']",i sorry nantzom roof much biota crypto mechanic cyber
+235,epgkoz magix fabulon centarkx fenix,2,no,Faerix,"['epgko', 'magi', 'fable', 'centark', 'hay']",epgko magi fable centark hay
+236,herox goblax legax,5,no,Faerix,"['hero', 'goblet', 'read']",hero goblet read
+237,petros terram pluvia nimbus,2,yes,Florian,"['rock', 'the', 'earth', 'rain', 'cloud']",rock earth rain cloud
+238,mermax legax deitax magix mermax,4,no,Faerix,"['merma', 'read', 'deity', 'magi', 'merma']",merma read deity magi merma
+239,sagax nympha mythox,3,yes,Mythron,"['saga', 'nymph', 'myth']",saga nymph myth
+240,mythox mytqox krakos,5,no,Mythron,"['myth', 'mytqo', 'krakos']",myth mytqo krakos
+241,blissam fearix sadix,3,yes,Sentire,"['bliss', 'to', 'be', 'feared', 'sad']",bliss feared sad
+242,aslron novax xeno xenn pulsar ufox pulsar,3,no,Quixnar,"['aslron', 'new', 'xeno', 'xen', 'pulsar', 'ufo', 'pulsar']",aslron new xeno xen pulsar ufo pulsar
+243,euphorsx ragex joyzor,6,no,Sentire,"['euphoria', 'rage', 'joyzor']",euphoria rage joyzor
+244,metlorn nebulax galaxum novara galaxum,4,no,Quixnar,"['metlorn', 'fog', 'galaxy', 'novel', 'galaxy']",metlorn fog galaxy novel galaxy
+245,calmox shamex dredax blisqam angstix joyzor,3,yes,Emotivor,"['calm', 'shame', 'dreds', 'blizzam', 'anxious', 'joyzor']",calm shame dreds blizzam anxious joyzor
+246,vortex ulapoz novax stardux vortex ufox novara,5,yes,Zorblax,"['word', 'I', ""'ll"", 'take', 'it', 'new', 'to', 'stare', 'word', 'ufo', 'novel']",word i 'll take new stare word ufo novel
+247,excitar ragex zenox,2,yes,Emotivor,"['is', 'excited', 'rage', 'Zeno']",excited rage zeno
+248,goblax sirenix titanos fenix epikiz faerix goblax drakos,4,no,Faerix,"['goblet', 'siren', 'the', 'titan', 'hay', 'epic', 'to', 'be', 'done', 'goblet', 'dragon']",goblet siren titan hay epic done goblet dragon
+249,terkam terram seepod floraz biomar avcana terram,2,yes,Florian,"['leave', 'the', 'earth', 'seapod', 'flower', 'biomar', 'avcana', 'the', 'earth']",leave earth seapod flower biomar avcana earth
+250,neuraz neuraz fazeron,3,yes,Nexoon,"['Neura', 'Neura', 'they', 'did']",neura neura
+251,centarnx goblax krakos sirenix airenix gryphox aoblax gobfax,4,yes,Mythron,"['center', 'goblet', 'krakos', 'siren', 'of', 'air', 'faucet', 'aobla', 'gobfa']",center goblet krakos siren air faucet aobla gobfa
+252,nanobyt dronix quantay neuraz biotex cbbron synapz,3,yes,Cybex,"['nanobyte', 'drone', 'quantay', 'Neura', 'biota', 'cbbron', 'synopsis']",nanobyte drone quantay neura biota cbbron synopsis
+253,aquos solux yaiax,4,no,Florian,"['water', 'alone', 'yaya']",water alone yaya
+254,petros rootix aquos,5,no,Florian,"['rock', 'rooted', 'water']",rock rooted water
+255,galaxum celestar novax celestar cosmix glixx nebuz lunol,4,yes,Zorblax,"['galaxy', 'celestial', 'new', 'celestial', 'cosmos', 'glix', 'in', 'the', 'sky', 'the', 'moon']",galaxy celestial new celestial cosmos glix sky moon
+256,pridius angstix hopium excitar euphorix soyrowz shockus blissxm,1,no,Emotivor,"['earlier', 'anxious', 'hop', 'is', 'excited', 'of', 'euphoria', 'soyrow', 'shock', 'bliss']",earlier anxious hop excited euphoria soyrow shock bliss
+257,pluvia solux ieafon folnar herba pollex terranix fobiar,5,yes,Aquari,"['rain', 'alone', 'let', ""'s"", 'go', 'falnar', 'grass', 'pull', 'earthling', 'I', ""'m"", 'afraid']",rain alone let 's go falnar grass pull earthling i 'm afraid
+258,magix gryphox sirenix mythox,5,yes,Mythron,"['magi', 'faucet', 'siren', 'myth']",magi faucet siren myth
+259,floraz insectus pluvia seypod floraz gaikx seepod pollex,1,yes,Florian,"['flower', 'insect', 'rain', 'seapod', 'flower', 'gay', 'seapod', 'pull']",flower insect rain seapod flower gay seapod pull
+260,lazeron holox technos synapz,6,yes,Nexoon,"['laser', 'hello', 'techno', 'synopsis']",laser hello techno synopsis
+261,goblax ddakos fenix krakos worix,3,yes,Mythron,"['goblet', 'thank', 'you', 'hay', 'krakos', 'Wori']",goblet thank hay krakos wori
+262,astrrn warpz kometk meteorn xeno nebuz pulsox,4,yes,Quixnar,"['astrrn', 'warp', 'comet', 'meteorn', 'xeno', 'in', 'the', 'sky', 'knock']",astrrn warp comet meteorn xeno sky knock
+263,tekranix sorux rootix floraz arbor pollex terranix petros,4,no,Aquari,"['tekrani', 'sister', 'rooted', 'flower', 'a', 'tree', 'pull', 'earthling', 'rock']",tekrani sister rooted flower tree pull earthling rock
+264,nimbus herba arbor,2,no,Aquari,"['cloud', 'grass', 'a', 'tree']",cloud grass tree
+265,circux mechan robonix,4,yes,Nexoon,"['circle', 'mechanic', 'robot']",circle mechanic robot
+266,joyzor excitar zenox dredax,5,yes,Sentire,"['joyzor', 'is', 'excited', 'Zeno', 'dreds']",joyzor excited zeno dreds
+267,gayax gaiax leafon petros leafon petros,3,no,Aquari,"['gaya', 'gaia', 'leafon', 'rock', 'leafon', 'rock']",gaya gaia leafon rock leafon rock
+268,mermax relikum lorix faerix mythox,5,yes,Mythron,"['merma', 'the', 'rest', 'to', 'wear', 'to', 'be', 'done', 'myth']",merma rest wear done myth
+269,fearix calmox fearix luvium excitar awezom awezox,5,yes,Sentire,"['to', 'be', 'feared', 'calm', 'to', 'be', 'feared', 'snow', 'is', 'excited', 'awesome', 'awezo']",feared calm feared snow excited awesome awezo
+270,sadix awezom empathix angstix,2,yes,Emotivor,"['sad', 'awesome', 'empathize', 'anxious']",sad awesome empathize anxious
+271,astron stardux uhox stardux pulsar,4,no,Quixnar,"['astron', 'to', 'stare', 'wow', 'to', 'stare', 'pulsar']",astron stare wow stare pulsar
+272,lorix coblax gryphox sirenix fenix beastix fabulon,4,no,Faerix,"['to', 'wear', 'cobra', 'faucet', 'siren', 'hay', 'blessed', 'fable']",wear cobra faucet siren hay blessed fable
+273,solarix kkmeta novara blapoz cosmix orbitay pulsar,6,yes,Zorblax,"['solar', 'kkmeta', 'novel', 'bark', 'cosmos', 'orbit', 'pulsar']",solar kkmeta novel bark cosmos orbit pulsar
+274,beastix elvex gryphox,3,no,Faerix,"['blessed', 'elve', 'faucet']",blessed elve faucet
+275,cyclopix magix magix mythox,8,yes,Mythron,"['cyclops', 'magi', 'magi', 'myth']",cyclops magi magi myth
+276,nebuz warpu xeno meteorn nebulax,5,no,Quixnar,"['in', 'the', 'sky', 'warp', 'xeno', 'meteorn', 'fog']",sky warp xeno meteorn fog
+277,hopium pridius ekstax calmox shamex empathix ragex,1,no,Emotivor,"['hop', 'earlier', 'eksta', 'calm', 'shame', 'empathize', 'rage']",hop earlier eksta calm shame empathize rage
+278,lazeron robonix datax djonix robonix robonix datax datax,3,no,Cybex,"['laser', 'robot', 'data', 'djoni', 'robot', 'robot', 'data', 'data']",laser robot data djoni robot robot data data
+279,faerix unikor titanos elqex unikor drakos titanos,2,no,Faerix,"['to', 'be', 'done', 'unique', 'the', 'titan', 'Elqe', 'unique', 'dragon', 'the', 'titan']",done unique titan elqe unique dragon titan
+280,virtua circux datax technos nunobyt yobonix,2,no,Cybex,"['virtue', 'circle', 'data', 'techno', 'nunobyt', 'yoboni']",virtue circle data techno nunobyt yoboni
+281,gryphox goblax mythox faerix,3,no,Faerix,"['faucet', 'goblet', 'myth', 'to', 'be', 'done']",faucet goblet myth done
+282,shockus ekstdx trustix ekstax euphorix,4,yes,Sentire,"['shock', 'extd', 'trust', 'eksta', 'of', 'euphoria']",shock extd trust eksta euphoria
+283,rootix ventus leafon floran zephyr floran,2,no,Aquari,"['rooted', 'favorite', 'leafon', 'they', 'bloom', 'zephyr', 'they', 'bloom']",rooted favorite leafon bloom zephyr bloom
+284,aquos sporpom pldvia solux floraz floran rootix,2,yes,Florian,"['water', 'slop', 'pldvia', 'alone', 'flower', 'they', 'bloom', 'rooted']",water slop pldvia alone flower bloom rooted
+285,empathix ragex anxius shockus luvium pridius,4,yes,Sentire,"['empathize', 'rage', 'anxious', 'shock', 'snow', 'earlier']",empathize rage anxious shock snow earlier
+286,ekstax excitar empathtx jlyzor awezom dredai ragex,5,no,Sentire,"['eksta', 'is', 'excited', 'empath', 'jlyzor', 'awesome', 'dreaded', 'rage']",eksta excited empath jlyzor awesome dreaded rage
+287,foliar zephyr sporzom zephyr terranix zephyr arbsr biomar,2,no,Aquari,"['leaf', 'zephyr', 'sporzom', 'zephyr', 'earthling', 'zephyr', 'tree', 'biomar']",leaf zephyr sporzom zephyr earthling zephyr tree biomar
+288,galaxum novax gmlaxum,5,yes,Quixnar,"['galaxy', 'new', 'gmlaxum']",galaxy new gmlaxum
+289,ventus rootix ventus,1,yes,Florian,"['favorite', 'rooted', 'favorite']",favorite rooted favorite
+290,cosmix novax blapoz pulsar,8,yes,Zorblax,"['cosmos', 'new', 'bark', 'pulsar']",cosmos new bark pulsar
+291,digitron quantaz aeqn nircux virtua,6,yes,Nexoon,"['digitron', 'how', 'much', 'eqn', 'nirc', 'virtue']",digitron much eqn nirc virtue
+292,euphorim hopjum calmox sorrowz sorrowz,3,no,Sentire,"['euphoria', 'now', 'calm', 'sorrow', 'sorrow']",euphoria calm sorrow sorrow
+293,terranix nikbus faunar,3,no,Aquari,"['earthling', 'nikbus', 'fauna']",earthling nikbus fauna
+294,insectus insfctus sporzom floraz pluvia pluvia tehranix,2,no,Aquari,"['insect', 'untrained', 'sporzom', 'flower', 'rain', 'rain', 'Tehrani']",insect untrained sporzom flower rain rain tehrani
+295,nebuz ufox nebusax kometa warpz meteorn celestar lunox,5,no,Quixnar,"['in', 'the', 'sky', 'ufo', 'redeemed', 'comet', 'warp', 'meteorn', 'celestial', 'the', 'moon']",sky ufo redeemed comet warp meteorn celestial moon
+296,fearix hopium hopium luvium,1,no,Emotivor,"['to', 'be', 'feared', 'hop', 'hop', 'snow']",feared hop hop snow
+297,cryptoz synapz algorix biotex dronix algorid,3,no,Cybex,"['crypto', 'synopsis', 'I', 'am', 'sorry', 'biota', 'drone', 'algorithm']",crypto synopsis i sorry biota drone algorithm
+298,aeon nexus virtua nanobyt digitron technos,2,yes,Nexoon,"['aeon', 'connection', 'virtue', 'nanobyte', 'digitron', 'techno']",aeon connection virtue nanobyte digitron techno
+299,excitar calmox shamex anxids,2,no,Emotivor,"['is', 'excited', 'calm', 'shame', 'anxiety']",excited calm shame anxiety
+300,circux holxx lazeron holox holox quanyaz,1,yes,Nexoon,"['circle', 'holx', 'laser', 'hello', 'hello', 'because']",circle holx laser hello hello
+301,blissam dredax joyzor awezom disgux ekstax,2,no,Emotivor,"['bliss', 'dreds', 'joyzor', 'awesome', 'discus', 'eksta']",bliss dreds joyzor awesome discus eksta
+302,aeon dawax datxx vazeron,0,yes,Cybex,"['aeon', 'dawa', 'datx', 'vaseron']",aeon dawa datx vaseron
+303,herba faunar aquos aviana rootix foliar foliar,2,yes,Florian,"['grass', 'fauna', 'water', 'avian', 'rooted', 'leaf', 'leaf']",grass fauna water avian rooted leaf leaf
+304,folwar sporzom floraz ventus solux,4,yes,Florian,"['folwar', 'sporzom', 'flower', 'favorite', 'alone']",folwar sporzom flower favorite alone
+305,biomar sporzom aquos solux rootix,4,no,Aquari,"['biomar', 'sporzom', 'water', 'alone', 'rooted']",biomar sporzom water alone rooted
+306,insectus herba gaisx leafon petros,3,no,Aquari,"['insect', 'grass', 'gay', 'leafon', 'rock']",insect grass gay leafon rock
+307,anzius sorrowa anxius,5,yes,Sentire,"['anxious', 'sadness', 'anxious']",anxious sadness anxious
+308,joyzor pridius sorrowz,1,no,Emotivor,"['joyzor', 'earlier', 'sorrow']",joyzor earlier sorrow
+309,algorix virtua cybron dronix synapz digitron cybrex cybdex,5,yes,Nexoon,"['I', 'am', 'sorry', 'virtue', 'cyber', 'drone', 'synopsis', 'digitron', 'cyber', 'cybde']",i sorry virtue cyber drone synopsis digitron cyber cybde
+310,biotex dronix virtua dronix nanobyt algorix,2,no,Cybex,"['biota', 'drone', 'virtue', 'drone', 'nanobyte', 'I', 'am', 'sorry']",biota drone virtue drone nanobyte i sorry
+311,quasar warpz astroh vcrtex pulsar meteorn meteorn novum,4,no,Quixnar,"['quasar', 'warp', 'astroh', 'really', 'pulsar', 'meteorn', 'meteorn', 'new']",quasar warp astroh really pulsar meteorn meteorn new
+312,novax meteokn stnrdux vortex vortex warpz zorp cosmix,7,yes,Zorblax,"['new', 'meteorology', 'standard', 'word', 'word', 'warp', 'zorp', 'cosmos']",new meteorology standard word word warp zorp cosmos
+313,euphorix sadix zenox shamex,1,no,Emotivor,"['of', 'euphoria', 'sad', 'Zeno', 'shame']",euphoria sad zeno shame
+314,aneius fearix dredax rages joyzor hopipm dredax zenox,2,yes,Emotivor,"['vein', 'to', 'be', 'feared', 'dreds', 'rage', 'joyzor', 'hopipm', 'dreds', 'Zeno']",vein feared dreds rage joyzor hopipm dreds zeno
+315,gryphox beastix centarea lorix epikoz,3,no,Faerix,"['faucet', 'blessed', 'hundred', 'to', 'wear', 'epic']",faucet blessed hundred wear epic
+316,sirenix herox nympha centarex dpitax legax fabulon elvex,4,yes,Mythron,"['siren', 'hero', 'nymph', 'to', 'center', 'dpita', 'read', 'fable', 'elve']",siren hero nymph center dpita read fable elve
+317,elwex faemix goblex herux titanos faerix,6,yes,Mythron,"['elwe', 'of', 'hunger', 'goblet', 'heir', 'the', 'titan', 'to', 'be', 'done']",elwe hunger goblet heir titan done
+318,pollex terpam rootix floran pluvia aviana sporzom akiana,3,yes,Florian,"['pull', 'terpa', 'rooted', 'they', 'bloom', 'rain', 'avian', 'sporzom', 'Akiana']",pull terpa rooted bloom rain avian sporzom akiana
+319,titanos mythox titanos faerix,6,no,Mythron,"['the', 'titan', 'myth', 'the', 'titan', 'to', 'be', 'done']",titan myth titan done
+320,celestar orbitaz ngbulax nebulax vortex pulsox,5,no,Quixnar,"['celestial', 'orbit', 'ngbula', 'fog', 'word', 'knock']",celestial orbit ngbula fog word knock
+321,synapz synapz biotex,4,yes,Nexoon,"['synopsis', 'synopsis', 'biota']",synopsis synopsis biota
+322,sadpx gleed angstix bdissam gleex,2,yes,Emotivor,"['sadp', 'gleed', 'anxious', 'break', 'up', 'glee']",sadp gleed anxious break glee
+323,ekos arbor flodan terranix,5,yes,Florian,"['eco', 'a', 'tree', 'they', 'bloom', 'earthling']",eco tree bloom earthling
+324,glixx lunox astron solarix cosmix glixx nebulyx,5,no,Quixnar,"['glix', 'the', 'moon', 'astron', 'solar', 'cosmos', 'glix', 'fog']",glix moon astron solar cosmos glix fog
+325,ariana biomar terranix,5,no,Aquari,"['Aryan', 'biomar', 'earthling']",aryan biomar earthling
+326,aviana pollex ariana solux,1,yes,Florian,"['avian', 'pull', 'Aryan', 'alone']",avian pull aryan alone
+327,flarix gleex euphorix euphorix disgux luvium joyzor anxius,1,no,Emotivor,"['to', 'blow', 'glee', 'of', 'euphoria', 'of', 'euphoria', 'discus', 'snow', 'joyzor', 'anxious']",blow glee euphoria euphoria discus snow joyzor anxious
+328,datax codex lazeron digitron cybrpx,1,yes,Cybex,"['data', 'code', 'laser', 'digitron', 'cybrp']",data code laser digitron cybrp
+329,lorix herox ltrix deitax,4,yes,Faerix,"['to', 'wear', 'hero', 'others', 'deity']",wear hero others deity
+330,joyzor angstix fearix awezom blnssam blissam trustix calmox,6,no,Sentire,"['joyzor', 'anxious', 'to', 'be', 'feared', 'awesome', 'blnssam', 'bliss', 'trust', 'calm']",joyzor anxious feared awesome blnssam bliss trust calm
+331,empathix blissam empathix shamex ekltax calmox,3,yes,Sentire,"['empathize', 'bliss', 'empathize', 'shame', 'eklta', 'calm']",empathize bliss empathize shame eklta calm
+332,angstix nrustix excitar zeqox ekstax excitar vridius,6,yes,Sentire,"['anxious', 'nrust', 'is', 'excited', 'zeqo', 'eksta', 'is', 'excited', 'more']",anxious nrust excited zeqo eksta excited
+333,pulsar neguz glixx warpz zorp,9,yes,Zorblax,"['pulsar', 'I', 'deny', 'glix', 'warp', 'zorp']",pulsar i deny glix warp zorp
+334,trusuix anxius hopium,3,yes,Sentire,"['I', 'pushed', 'anxious', 'hop']",i pushed anxious hop
+335,lazervn datax lazerom neuraz quantaz virtua nexus,5,yes,Nexoon,"['lazervn', 'data', 'laser', 'Neura', 'how', 'much', 'virtue', 'connection']",lazervn data laser neura much virtue connection
+336,cycvopix gryphod magix ebvex sagax unikor gryphox gryphox,5,no,Faerix,"['cycvopi', 'gryphod', 'magi', 'ebbe', 'saga', 'unique', 'faucet', 'faucet']",cycvopi gryphod magi ebbe saga unique faucet faucet
+337,virtua techix neuraz virtua codex virtua,5,yes,Nexoon,"['virtue', 'roof', 'Neura', 'virtue', 'code', 'virtue']",virtue roof neura virtue code virtue
+338,deitax elvex cyclopix unikor herox titanos elvex fabulon,6,yes,Mythron,"['deity', 'elve', 'cyclops', 'unique', 'hero', 'the', 'titan', 'elve', 'fable']",deity elve cyclops unique hero titan elve fable
+339,iovum vortex novax,3,no,Quixnar,"['Jupiter', 'word', 'new']",jupiter word new
+340,nebuz orbitaz galaxum,4,no,Quixnar,"['in', 'the', 'sky', 'orbit', 'galaxy']",sky orbit galaxy
+341,seepoa terram nimbus arbor,3,no,Florian,"['soon', 'the', 'earth', 'cloud', 'a', 'tree']",soon earth cloud tree
+342,faerix krakoc titanor lorix kmakos,3,yes,Faerix,"['to', 'be', 'done', 'krakoc', 'titanor', 'to', 'wear', 'kmakos']",done krakoc titanor wear kmakos
+343,fenix goblax sirenix sirenix,5,yes,Mythron,"['hay', 'goblet', 'siren', 'siren']",hay goblet siren siren
+344,nympha drakos relikum mermax mermax,5,yes,Mythron,"['nymph', 'dragon', 'the', 'rest', 'merma', 'merma']",nymph dragon rest merma merma
+345,zechan synapz holox lazerqn,3,no,Cybex,"['Zechan', 'synopsis', 'hello', 'lazerqn']",zechan synopsis hello lazerqn
+346,faerix elvex magix,5,yes,Mythron,"['to', 'be', 'done', 'elve', 'magi']",done elve magi
+347,mechan robonix quantix,2,no,Cybex,"['mechanic', 'robot', 'how', 'much']",mechanic robot much
+348,cosmix nebulax ufox warpz vortex,4,no,Zorblax,"['cosmos', 'fog', 'ufo', 'warp', 'word']",cosmos fog ufo warp word
+349,titanos epikoz mythjx fabulon epikoz herox beastpx,7,no,Mythron,"['the', 'titan', 'epic', 'myth', 'fable', 'epic', 'hero', 'beast']",titan epic myth fable epic hero beast
+350,foliar rootix terranix,1,yes,Florian,"['leaf', 'rooted', 'earthling']",leaf rooted earthling
+351,fenix gryphox centarer faerix sirenix cyclopix fabulon mzgix,4,yes,Mythron,"['hay', 'faucet', 'center', 'to', 'be', 'done', 'siren', 'cyclops', 'fable', 'mzgi']",hay faucet center done siren cyclops fable mzgi
+352,leafon foliar floraz ventus,5,no,Aquari,"['leafon', 'leaf', 'flower', 'favorite']",leafon leaf flower favorite
+353,lazeron robonix holox technos digitron quantix,5,yes,Nexoon,"['laser', 'robot', 'hello', 'techno', 'digitron', 'how', 'much']",laser robot hello techno digitron much
+354,lunox stjrdux quasar vortex novara pulsox cosmix celestar,5,yes,Zorblax,"['the', 'moon', 'stjrdu', 'quasar', 'word', 'novel', 'knock', 'cosmos', 'celestial']",moon stjrdu quasar word novel knock cosmos celestial
+355,cybrex cybrex quantaz,5,no,Nexoon,"['cyber', 'cyber', 'how', 'much']",cyber cyber much
+356,fabulon magix kgakos relikum,3,no,Faerix,"['fable', 'magi', 'kgakos', 'the', 'rest']",fable magi kgakos rest
+357,warpz kometa galaxuw nebulax glixx,3,no,Quixnar,"['warp', 'comet', 'galaxy', 'fog', 'glix']",warp comet galaxy fog glix
+358,gaiax gaiax foliar biomar solux biomar nerba herba,5,no,Aquari,"['gaia', 'gaia', 'leaf', 'biomar', 'alone', 'biomar', 'nerve', 'grass']",gaia gaia leaf biomar alone biomar nerve grass
+359,ventus aquos gaiax biomar terram,6,no,Aquari,"['favorite', 'water', 'gaia', 'biomar', 'the', 'earth']",favorite water gaia biomar earth
+360,floraz gaiax herba sporzlm ekos,1,no,Florian,"['flower', 'gaia', 'grass', 'sporzlm', 'eco']",flower gaia grass sporzlm eco
+361,unikor tetanos mermax epikoz fabulon,3,no,Faerix,"['unique', 'tetanus', 'merma', 'epic', 'fable']",unique tetanus merma epic fable
+362,awezom zenox excitar shockus fearix ragex,4,yes,Sentire,"['awesome', 'Zeno', 'is', 'excited', 'shock', 'to', 'be', 'feared', 'rage']",awesome zeno excited shock feared rage
+363,fearix pridius sorrowz calmoa awezom truztix zenox,5,yes,Sentire,"['to', 'be', 'feared', 'earlier', 'sorrow', 'calm', 'awesome', 'truzti', 'Zeno']",feared earlier sorrow calm awesome truzti zeno
+364,fboraz floraz herba sponzom seypod pluvia,4,yes,Aquari,"['fbora', 'flower', 'grass', 'spouse', 'seapod', 'rain']",fbora flower grass spouse seapod rain
+365,angstox anxius gleex shockus luvgum trusqix luvium,2,yes,Sentire,"['anxious', 'anxious', 'glee', 'shock', 'luvgum', 'trusqi', 'snow']",anxious anxious glee shock luvgum trusqi snow
+366,floraz pollex floran ventus solux,0,yes,Florian,"['flower', 'pull', 'they', 'bloom', 'favorite', 'alone']",flower pull bloom favorite alone
+367,datax neuraz datax,5,yes,Nexoon,"['data', 'Neura', 'data']",data neura data
+368,crqptoz cybron quantix,1,no,Cybex,"['crqpto', 'cyber', 'how', 'much']",crqpto cyber much
+369,fenix sagax unikor sagax nympha,3,no,Faerix,"['hay', 'saga', 'unique', 'saga', 'nymph']",hay saga unique saga nymph
+370,herba leafon solux,2,no,Aquari,"['grass', 'leafon', 'alone']",grass leafon alone
+371,seepod petros solux petros floran pollex faunar arcor,4,no,Aquari,"['seapod', 'rock', 'alone', 'rock', 'they', 'bloom', 'pull', 'fauna', 'archer']",seapod rock alone rock bloom pull fauna archer
+372,floran arbor seepod floren terranix ventus riotix floraz,5,no,Aquari,"['they', 'bloom', 'a', 'tree', 'seapod', 'bloom', 'earthling', 'favorite', 'Riot', 'flower']",bloom tree seapod bloom earthling favorite riot flower
+373,novum quasar nebuz nxbuz glixx vortex,6,yes,Zorblax,"['new', 'quasar', 'in', 'the', 'sky', 'nxbu', 'glix', 'word']",new quasar sky nxbu glix word
+374,blissam calmox blissam febrix,6,yes,Sentire,"['bliss', 'calm', 'bliss', 'fever']",bliss calm bliss fever
+375,kometa vortex lunbx vortex,7,yes,Zorblax,"['comet', 'word', 'Monday', 'word']",comet word monday word
+376,terranix terranix leaion nimbus,2,no,Aquari,"['earthling', 'earthling', 'lion', 'cloud']",earthling earthling lion cloud
+377,sovax novum warpz celestar quasar solarix quasar,6,yes,Zorblax,"['wild', 'new', 'warp', 'celestial', 'quasar', 'solar', 'quasar']",wild new warp celestial quasar solar quasar
+378,zenow furio dredax pridius,5,yes,Sentire,"['zenow', 'in', 'a', 'rage', 'dreds', 'earlier']",zenow rage dreds earlier
+379,novum blapoz astron zolp novara cosmix novara cehestar,5,no,Quixnar,"['new', 'bark', 'astron', 'zolp', 'novel', 'cosmos', 'novel', 'it', ""'s"", 'a', 'cakewalk']",new bark astron zolp novel cosmos novel 's cakewalk
+380,insectus leafon faunar arbon ventus hzrba biomar,3,yes,Florian,"['insect', 'leafon', 'fauna', 'tree', 'favorite', 'hzrba', 'biomar']",insect leafon fauna tree favorite hzrba biomar
+381,ekstax trustix shamex furio disgux,1,yes,Emotivor,"['eksta', 'trust', 'shame', 'in', 'a', 'rage', 'discus']",eksta trust shame rage discus
+382,feniy fenwx fabulon relikum fenix elvex sirenix magix,3,yes,Mythron,"['feni', 'fenw', 'fable', 'the', 'rest', 'hay', 'elve', 'siren', 'magi']",feni fenw fable rest hay elve siren magi
+383,deitax drakos mythox,8,yes,Mythron,"['deity', 'dragon', 'myth']",deity dragon myth
+384,cybron hollx digitrtn nexus datax,2,no,Cybex,"['cyber', 'holl', 'digital', 'connection', 'data']",cyber holl digital connection data
+385,herox gryphox epikot magix relikum sirenix goblax lsrix,3,yes,Mythron,"['hero', 'faucet', 'epicot', 'magi', 'the', 'rest', 'siren', 'goblet', 'lsri']",hero faucet epicot magi rest siren goblet lsri
+386,angstic sorrowz shamex fearix joyzor,2,no,Emotivor,"['anxious', 'sorrow', 'shame', 'to', 'be', 'feared', 'joyzor']",anxious sorrow shame feared joyzor
+387,furio gleex sorrowz ragex lumium blissam luvium,4,yes,Sentire,"['in', 'a', 'rage', 'glee', 'sorrow', 'rage', 'the', 'light', 'bliss', 'snow']",rage glee sorrow rage light bliss snow
+388,mermax deitax nympha relikum sagmx faerix unikor,5,yes,Mythron,"['merma', 'deity', 'nymph', 'the', 'rest', 'sagm', 'to', 'be', 'done', 'unique']",merma deity nymph rest sagm done unique
+389,sllux ventus insestus aquos rootix,5,yes,Florian,"['sllu', 'favorite', 'incest', 'water', 'rooted']",sllu favorite incest water rooted
+390,shockss fearix calmox fearix luvium disvux,2,no,Emotivor,"['shock', 'to', 'be', 'feared', 'calm', 'to', 'be', 'feared', 'snow', 'split']",shock feared calm feared snow split
+391,virtua neuraz aeon synapz codex,6,yes,Nexoon,"['virtue', 'Neura', 'aeon', 'synopsis', 'code']",virtue neura aeon synopsis code
+392,furio dredax awezom,4,no,Sentire,"['in', 'a', 'rage', 'dreds', 'awesome']",rage dreds awesome
+393,goblax elvex fabulon,6,yes,Mythron,"['goblet', 'elve', 'fable']",goblet elve fable
+394,zalaxum cosmix stardux nebzz galaxum,6,yes,Zorblax,"['zalaxum', 'cosmos', 'to', 'stare', 'nebz', 'galaxy']",zalaxum cosmos stare nebz galaxy
+395,herox elvex sagax gobqax unikor fenix,6,yes,Mythron,"['hero', 'elve', 'saga', 'gobqa', 'unique', 'hay']",hero elve saga gobqa unique hay
+396,codex cywrex lazeron cybron mechan mechan nanobyt aeon,0,no,Cybex,"['code', 'cywre', 'laser', 'cyber', 'mechanic', 'mechanic', 'nanobyte', 'aeon']",code cywre laser cyber mechanic mechanic nanobyte aeon
+397,ventus herba nimbus terranix nimbus,1,yes,Florian,"['favorite', 'grass', 'cloud', 'earthling', 'cloud']",favorite grass cloud earthling cloud
+398,titanos fjerix krakos gryphox mythox,7,yes,Mythron,"['the', 'titan', 'burn', 'krakos', 'faucet', 'myth']",titan burn krakos faucet myth
+399,terram solix insectus,3,yes,Florian,"['the', 'earth', 'alone', 'insect']",earth alone insect
+400,shamex fearix empathix dredax luvium,2,yes,Sentire,"['shame', 'to', 'be', 'feared', 'empathize', 'dreds', 'snow']",shame feared empathize dreds snow
+401,zephyr zephyr herba leafon pluvia,4,no,Aquari,"['zephyr', 'zephyr', 'grass', 'leafon', 'rain']",zephyr zephyr grass leafon rain
+402,gaiax terrnm oimbus zephyr,3,no,Florian,"['gaia', 'terrible', 'oimbus', 'zephyr']",gaia terrible oimbus zephyr
+403,qualar stardux celejtar,5,no,Quixnar,"['such', 'a', 'to', 'stare', 'be', 'sealed']",stare sealed
+404,solarix xeno cosmix febulax,5,yes,Quixnar,"['solar', 'xeno', 'cosmos', 'weakness']",solar xeno cosmos weakness
+405,codex quantix mechan weon biotex mechan quantaz virtua,2,no,Cybex,"['code', 'how', 'much', 'mechanic', 'weon', 'biota', 'mechanic', 'how', 'much', 'virtue']",code much mechanic weon biota mechanic much virtue
+406,krakos centarex sirtnix faerix goblax beastix,4,no,Faerix,"['krakos', 'to', 'center', 'sirtni', 'to', 'be', 'done', 'goblet', 'blessed']",krakos center sirtni done goblet blessed
+407,syuapz dronix digitrop,3,no,Cybex,"['syuap', 'drone', 'fingertip']",syuap drone fingertip
+408,calmox sadix ragex disgux,2,no,Emotivor,"['calm', 'sad', 'rage', 'discus']",calm sad rage discus
+409,awezom shockus ragex anxius blissac shockus,2,yes,Sentire,"['awesome', 'shock', 'rage', 'anxious', 'bliss', 'shock']",awesome shock rage anxious bliss shock
+410,aviana terranix solux selux gaiax floraz terrrm,1,yes,Florian,"['avian', 'earthling', 'alone', 'selu', 'gaia', 'flower', 'terrible']",avian earthling alone selu gaia flower terrible
+411,kometa orbitaz galaxym novara,2,no,Quixnar,"['comet', 'orbit', 'the', 'galaxy', 'novel']",comet orbit galaxy novel
+412,legax beastix herox cyclopix,4,yes,Faerix,"['read', 'blessed', 'hero', 'cyclops']",read blessed hero cyclops
+413,oanobyt quantaz nanozom aeon,3,yes,Nexoon,"['oanobyt', 'how', 'much', 'nanozom', 'aeon']",oanobyt much nanozom aeon
+414,nymphb fenix gryphov legax gmblax epikoz nympha,4,no,Faerix,"['nymphb', 'hay', 'gryphov', 'read', 'gmbla', 'epic', 'nymph']",nymphb hay gryphov read gmbla epic nymph
+415,lazeron mechan robonix nexus robonix nanobyt,0,no,Cybex,"['laser', 'mechanic', 'robot', 'connection', 'robot', 'nanobyte']",laser mechanic robot connection robot nanobyte
+416,pulsox solarix astrob kometa eeno lunnx,6,yes,Zorblax,"['knock', 'solar', 'star', 'comet', 'I', 'am', 'lunn']",knock solar star comet i lunn
+417,furio luvium blissam empathix zenox shamex vridius,2,yes,Emotivor,"['in', 'a', 'rage', 'snow', 'bliss', 'empathize', 'Zeno', 'shame', 'more']",rage snow bliss empathize zeno shame
+418,elvex deitax magix sirenix gryphpx beasxix,4,no,Mythron,"['elve', 'deity', 'magi', 'siren', 'gryphp', 'I', 'lied']",elve deity magi siren gryphp i lied
+419,faerix deirax sagax mythox cyclopix lorix,3,yes,Mythron,"['to', 'be', 'done', 'miss', 'saga', 'myth', 'cyclops', 'to', 'wear']",done miss saga myth cyclops wear
+420,pulsar ncbuz nebuhax novara nebuz,5,yes,Zorblax,"['pulsar', 'ncbu', 'nebuha', 'novel', 'in', 'the', 'sky']",pulsar ncbu nebuha novel sky
+421,floraj insectus pollex pluvia aviana pluvia,1,yes,Florian,"['flower', 'insect', 'pull', 'rain', 'avian', 'rain']",flower insect pull rain avian rain
+422,dortex nebulax solariy celestar,4,no,Zorblax,"['to', 'sleep', 'fog', 'solar', 'celestial']",sleep fog solar celestial
+423,datax cybron nanobyt datax,3,no,Cybex,"['data', 'cyber', 'nanobyte', 'data']",data cyber nanobyte data
+424,qebuz pulsar blapoz novum,6,yes,Quixnar,"['what', 'pulsar', 'bark', 'new']",pulsar bark new
+425,ekos hfrba pollex biomar sporzom aviana,2,no,Aquari,"['eco', 'hfrba', 'pull', 'biomar', 'sporzom', 'avian']",eco hfrba pull biomar sporzom avian
+426,cybroi biotex cryptoz,1,no,Cybex,"['cyber', 'biota', 'crypto']",cyber biota crypto
+427,ventus gaiax floraz herba,5,no,Aquari,"['favorite', 'gaia', 'flower', 'grass']",favorite gaia flower grass
+428,pollex gaiax leafon,2,no,Aquari,"['pull', 'gaia', 'leafon']",pull gaia leafon
+429,technos codex cybfon quantaz biotex,1,yes,Cybex,"['techno', 'code', 'cybfon', 'how', 'much', 'biota']",techno code cybfon much biota
+430,ekos ventus terranix aqjos aquoe floran terram,5,no,Aquari,"['eco', 'favorite', 'earthling', 'aqjos', 'with', 'water', 'they', 'bloom', 'the', 'earth']",eco favorite earthling aqjos water bloom earth
+431,xeno nebulax ufox ufox cosmix pulsox,5,no,Quixnar,"['xeno', 'fog', 'ufo', 'ufo', 'cosmos', 'knock']",xeno fog ufo ufo cosmos knock
+432,floran seepod pluvia tprranix avisna aviana,0,yes,Florian,"['they', 'bloom', 'seapod', 'rain', 'tprrani', 'goat', 'avian']",bloom seapod rain tprrani goat avian
+433,solarix pulsar bqapoz,5,no,Quixnar,"['solar', 'pulsar', 'bqapo']",solar pulsar bqapo
+434,soluz gaiax mephyr fephyr sporzom,4,no,Aquari,"['alone', 'gaia', 'mephyr', 'fever', 'sporzom']",alone gaia mephyr fever sporzom
+435,pluvia gaiax terranix petros ekos faunar rootix pollex,5,no,Florian,"['rain', 'gaia', 'earthling', 'rock', 'eco', 'fauna', 'rooted', 'pull']",rain gaia earthling rock eco fauna rooted pull
+436,zorf solarix kometa zorp lunox,5,yes,Zorblax,"['Zorf', 'solar', 'comet', 'zorp', 'the', 'moon']",zorf solar comet zorp moon
+437,astron novax novax pulsar warpz norax cosmix vortex,3,no,Quixnar,"['astron', 'new', 'new', 'pulsar', 'warp', 'daughter-in-law', 'cosmos', 'word']",astron new new pulsar warp daughter-in-law cosmos word
+438,nexus robonix mechan dronix qulntaz cryptoz,2,no,Cybex,"['connection', 'robot', 'mechanic', 'drone', 'qulnta', 'crypto']",connection robot mechanic drone qulnta crypto
+439,herba gaiax biomar pluvia florgz rookix leaion herba,5,no,Aquari,"['grass', 'gaia', 'biomar', 'rain', 'flower', 'rookie', 'lion', 'grass']",grass gaia biomar rain flower rookie lion grass
+440,sirenix gryphox sagax unikor mymhox goblax unikor,6,yes,Mythron,"['siren', 'faucet', 'saga', 'unique', 'My', 'name', 'goblet', 'unique']",siren faucet saga unique my name goblet unique
+441,jpyzor sadix gleex zenox gleex joyzor ragex,1,no,Emotivor,"['jpyzor', 'sad', 'glee', 'Zeno', 'glee', 'joyzor', 'rage']",jpyzor sad glee zeno glee joyzor rage
+442,drosix tecanos nanozom technos aeon digitron techih,3,no,Cybex,"['dross', 'the', 'thecans', 'nanozom', 'techno', 'aeon', 'digitron', 'technology']",dross thecans nanozom techno aeon digitron technology
+443,nympha relikum bitanos centarex faerix titanos mermax epikoz,7,no,Mythron,"['nymph', 'the', 'rest', 'bitans', 'to', 'center', 'to', 'be', 'done', 'the', 'titan', 'merma', 'epic']",nymph rest bitans center done titan merma epic
+444,cosex lazeron synapz quantaz cybron quantix neuraz,5,yes,Nexoon,"['reap', 'laser', 'synopsis', 'how', 'much', 'cyber', 'how', 'much', 'Neura']",reap laser synopsis much cyber much neura
+445,qudsar pulsox pulsox zorp nebulax,7,yes,Zorblax,"['why', '?', 'knock', 'knock', 'zorp', 'fog']",? knock knock zorp fog
+446,herox beastix sirenix unikor gryphox feyix,6,no,Mythron,"['hero', 'blessed', 'siren', 'unique', 'faucet', 'feyi']",hero blessed siren unique faucet feyi
+447,quasar solarix quasar blapoz quasar galaxum,4,yes,Quixnar,"['quasar', 'solar', 'quasar', 'bark', 'quasar', 'galaxy']",quasar solar quasar bark quasar galaxy
+448,petros terranix terram ventus,5,no,Aquari,"['rock', 'earthling', 'the', 'earth', 'favorite']",rock earthling earth favorite
+449,ufow nebuz ufox xeno cosmix bvapoz zorp,5,no,Quixnar,"['ufow', 'in', 'the', 'sky', 'ufo', 'xeno', 'cosmos', 'breath', 'zorp']",ufow sky ufo xeno cosmos breath zorp
+450,galaxum celestar stardux,5,no,Quixnar,"['galaxy', 'celestial', 'to', 'stare']",galaxy celestial stare
+451,shockbs shamex euphorix zenox trustix ragux luvium,2,yes,Sentire,"['shock', 'shame', 'of', 'euphoria', 'Zeno', 'trust', 'ragu', 'snow']",shock shame euphoria zeno trust ragu snow
+452,legax fabulon faerix unikor herox,3,no,Faerix,"['read', 'fable', 'to', 'be', 'done', 'unique', 'hero']",read fable done unique hero
+453,goblam gryphox krmkos malix sagax fenix sirenix gryphox,4,no,Faerix,"['gobble', 'faucet', 'krmkos', 'evil', 'saga', 'hay', 'siren', 'faucet']",gobble faucet krmkos evil saga hay siren faucet
+454,ufox cosmix novara novum,3,no,Quixnar,"['ufo', 'cosmos', 'novel', 'new']",ufo cosmos novel new
+455,lazeron cybron cryptoz robonix biotex holox digitron lazeron,1,yes,Cybex,"['laser', 'cyber', 'crypto', 'robot', 'biota', 'hello', 'digitron', 'laser']",laser cyber crypto robot biota hello digitron laser
+456,leafon leafon pollex,4,no,Aquari,"['leafon', 'leafon', 'pull']",leafon leafon pull
+457,solux nimbus floraz gaiax seepod,4,yes,Florian,"['alone', 'cloud', 'flower', 'gaia', 'seapod']",alone cloud flower gaia seapod
+458,astron glixx solarix solarix orbitaz rtardux warpz,4,yes,Zorblax,"['astron', 'glix', 'solar', 'solar', 'orbit', 'rtardu', 'warp']",astron glix solar solar orbit rtardu warp
+459,terranix terranix herba gniax,0,yes,Florian,"['earthling', 'earthling', 'grass', 'gnome']",earthling earthling grass gnome
+460,awezom furio awezom disgux,2,yes,Emotivor,"['awesome', 'in', 'a', 'rage', 'awesome', 'discus']",awesome rage awesome discus
+461,herox eegax deitax xnikor herox,3,no,Faerix,"['hero', 'yes', 'deity', 'xnikor', 'hero']",hero yes deity xnikor hero
+462,sadix ekstax anxiuz sqockus,1,yes,Emotivor,"['sad', 'eksta', 'anxiously', 'squeal']",sad eksta anxiously squeal
+463,virtua biotex algorix,5,yes,Nexoon,"['virtue', 'biota', 'I', 'am', 'sorry']",virtue biota i sorry
+464,terram aviaia terranix nimbus zephyr,3,yes,Florian,"['the', 'earth', 'grandma', 'earthling', 'cloud', 'zephyr']",earth grandma earthling cloud zephyr
+465,cyclopix deitax centarex drakos faerix magix sagax,4,no,Faerix,"['cyclops', 'deity', 'to', 'center', 'dragon', 'to', 'be', 'done', 'magi', 'saga']",cyclops deity center dragon done magi saga
+466,dronix cybrex codex nexus holox technos codex lazeron,3,no,Cybex,"['drone', 'cyber', 'code', 'connection', 'hello', 'techno', 'code', 'laser']",drone cyber code connection hello techno code laser
+467,ragex fearix mopium excvtar,3,yes,Sentire,"['rage', 'to', 'be', 'feared', 'opium', 'excvtar']",rage feared opium excvtar
+468,quasar galaxum xeno blapoz,5,no,Quixnar,"['quasar', 'galaxy', 'xeno', 'bark']",quasar galaxy xeno bark
+469,ventus biumar floxan pollex zephyr terram faunar pluvia,4,yes,Florian,"['favorite', 'biumar', 'floxan', 'pull', 'zephyr', 'the', 'earth', 'fauna', 'rain']",favorite biumar floxan pull zephyr earth fauna rain
+470,kometa zorp wanpz nebuz nebulax,7,yes,Zorblax,"['comet', 'zorp', 'wanp', 'in', 'the', 'sky', 'fog']",comet zorp wanp sky fog
+471,cryptoz quantix aeon virtua,0,no,Cybex,"['crypto', 'how', 'much', 'aeon', 'virtue']",crypto much aeon virtue
+472,floraz petros rootix pluvia biomar petros pluvia,4,no,Aquari,"['flower', 'rock', 'rooted', 'rain', 'biomar', 'rock', 'rain']",flower rock rooted rain biomar rock rain
+473,ufox novax stardux,6,yes,Zorblax,"['ufo', 'new', 'to', 'stare']",ufo new stare
+474,deitax gryphox nympha herox fenpx sirenix,8,yes,Mythron,"['deity', 'faucet', 'nymph', 'hero', 'fenp', 'siren']",deity faucet nymph hero fenp siren
+475,quantaz lazeron technos codeu neuraz nanobyt mechun,3,no,Cybex,"['how', 'much', 'laser', 'techno', 'code', 'Neura', 'nanobyte', 'mechun']",much laser techno code neura nanobyte mechun
+476,goilax mythox sirenix epikoz sagax deitax,3,yes,Faerix,"['goila', 'myth', 'siren', 'epic', 'saga', 'deity']",goila myth siren epic saga deity
+477,solarix glixx quasar lunox,3,no,Quixnar,"['solar', 'glix', 'quasar', 'the', 'moon']",solar glix quasar moon
+478,sirepix beastix mermax titayos unikor cyclopix titanos,8,no,Mythron,"['siripe', 'blessed', 'merma', 'titayos', 'unique', 'cyclops', 'the', 'titan']",siripe blessed merma titayos unique cyclops titan
+479,lazeron quantaz quantaz,2,no,Cybex,"['laser', 'how', 'much', 'how', 'much']",laser much much
+480,algorix nanobyt circux neuraz neuraz,2,no,Cybex,"['I', 'am', 'sorry', 'nanobyte', 'circle', 'Neura', 'Neura']",i sorry nanobyte circle neura neura
+481,epikoz draaos elvex krakos sirenix faerkx,6,yes,Mythron,"['epic', 'dragon', 'elve', 'krakos', 'siren', 'faerk']",epic dragon elve krakos siren faerk
+482,disgux fearix venox shockus,1,no,Emotivor,"['discus', 'to', 'be', 'feared', 'come', 'shock']",discus feared come shock
+483,mechan virtua quantaz codex tecfnos,3,no,Cybex,"['mechanic', 'virtue', 'how', 'much', 'code', 'cover', 'u']",mechanic virtue much code cover u
+484,lazeron robonix nanozom,4,no,Cybex,"['laser', 'robot', 'nanozom']",laser robot nanozom
+485,cryptoz cryptoz robonix virtud holox quantix,6,yes,Nexoon,"['crypto', 'crypto', 'robot', 'strength', 'hello', 'how', 'much']",crypto crypto robot strength hello much
+486,truotix joyzor hopium sapix ragex joyzor anxius,1,no,Emotivor,"['punched', 'joyzor', 'hop', 'wise', 'rage', 'joyzor', 'anxious']",punched joyzor hop wise rage joyzor anxious
+487,tqustix dredax kurio shamex annstix fearjx,4,yes,Sentire,"['you', 'dreds', 'to', 'whom', 'shame', 'you', 'have', 'fear']",dreds shame fear
+488,terranix herba petros faunar aquon zquos,3,no,Aquari,"['earthling', 'grass', 'rock', 'fauna', 'water', 'those']",earthling grass rock fauna water
+489,drakos kzakos titanos cyclopix epikoz deitax herox goblax,3,no,Faerix,"['dragon', 'kzakos', 'the', 'titan', 'cyclops', 'epic', 'deity', 'hero', 'goblet']",dragon kzakos titan cyclops epic deity hero goblet
+490,robonix aeon technos techip datax,5,yes,Nexoon,"['robot', 'aeon', 'techno', 'technology', 'data']",robot aeon techno technology data
+491,gryphox faerix fenix faerix,7,no,Mythron,"['faucet', 'to', 'be', 'done', 'hay', 'to', 'be', 'done']",faucet done hay done
+492,synapz holox quansix nanobyt neuraz neuraz nanozom cybron,3,no,Cybex,"['synopsis', 'hello', 'a', 'if', 'nanobyte', 'Neura', 'Neura', 'nanozom', 'cyber']",synopsis hello nanobyte neura neura nanozom cyber
+493,ragex ekstax pridius przdius,1,no,Emotivor,"['rage', 'eksta', 'earlier', 'przdius']",rage eksta earlier przdius
+494,quantix aeop aeon,6,no,Nexoon,"['how', 'much', 'aeop', 'aeon']",much aeop aeon
+495,empathix sadix disgux dredax pridius afgstix excitar,2,no,Emotivor,"['empathize', 'sad', 'discus', 'dreds', 'earlier', 'afgst', 'is', 'excited']",empathize sad discus dreds earlier afgst excited
+496,quasar ustron nebulax meteorn,4,no,Quixnar,"['quasar', 'burn', 'fog', 'meteorn']",quasar burn fog meteorn
+497,astron xeno ceaestar astron kometa,6,yes,Zorblax,"['astron', 'xeno', 'dinner', 'astron', 'comet']",astron xeno dinner astron comet
+498,sporzom nimbus terram terranix aviana ekos nimbub,2,yes,Florian,"['sporzom', 'cloud', 'the', 'earth', 'earthling', 'avian', 'eco', 'nimbub']",sporzom cloud earth earthling avian eco nimbub
+499,blastix titanos relikum drakos gryphox sirenix,4,yes,Mythron,"['blasted', 'the', 'titan', 'the', 'rest', 'dragon', 'faucet', 'siren']",blasted titan rest dragon faucet siren
